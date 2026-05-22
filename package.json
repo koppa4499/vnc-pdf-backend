@@ -1,0 +1,13 @@
+{
+  "name": "vnc-pdf-backend",
+  "version": "1.0.0",
+  "description": "VNC Material Archive PDF Generation Backend",
+  "main": "api/generate-pdf.js",
+  "scripts": {
+    "dev": "vercel dev",
+    "build": "echo 'Build successful'"
+  },
+  "dependencies": {
+    "@playwright/test": "^1.40.0"
+  }
+}
